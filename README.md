@@ -21,6 +21,8 @@ Unlike previous task-specific settings, AS-ReID uses one unified model for any-t
 
 **WHU-MARS** is a large-scale multispectral aerial-ground benchmark, containing 2,337 IDs and 434,620 images captured by RGB, NIR, TIR on both ground and UAV platforms. WHU-MARS covers day and night, multiple seasons, diverse weather conditions, introducing realistic variations in illumination, viewpoint, scale, and spectral appearance that reflect realworld diversity. It supports unified training and evaluation for AS-ReID, while remaining compatible with conventional AG-ReID, VI-ReID, and MM-ReID protocols.
 
+The WHU-MARS dataset is available for non-commercial academic research only. To request access, please complete the [Agreement](./WHU-MARS_Agreement.pdf) and send the signed copy to [zhaoyuxuan@whu.edu.cn](mailto:zhaoyuxuan@whu.edu.cn). Approved applicants will receive the dataset download link by email. Please do not redistribute the dataset or share the download link with others.
+
 ![WHU-MARS](res/WHU-MARS.png)
 
 | Task             | Dataset                                                      | Paired | Day  | Night |  #IDs |     #Images | Ground #RGB | Ground #NIR | Ground #TIR | Aerial #RGB | Aerial #NIR | Aerial #TIR |
@@ -43,7 +45,7 @@ Unlike previous task-specific settings, AS-ReID uses one unified model for any-t
 
 ## UAD Framework
 
-We propose **Unified Alignment and Discrimination (UAD)** to learn scenario-invariant and discriminative representations with a single model.
+We propose **Unified Alignment and Discrimination (UAD)** to learn scenario-invariant and discriminative representations with a single model. The code is available in [CVPR26_UAD](./CVPR26_UAD)
 
 UAD contains two key components:
 

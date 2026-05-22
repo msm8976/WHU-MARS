@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+logs/
+.vscode/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.tmp
