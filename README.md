@@ -1,6 +1,7 @@
 <h1 align="center">WHU-MARS: A Multispectral Aerial-Ground Benchmark Towards Any-Scenario Person Re-Identification</h1>
 <h3 align="center">Yuxuan Zhao, Zhongao Zhou, Bin Yang, He Li, Jian Liang, Jun Chen, Bo Du, Mang Ye</h3>
 <h3 align="center">CVPR 2026 (Highlight)</h3>
+<p align="center"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Zhao_WHU-MARS_A_Multispectral_Aerial-Ground_Benchmark_Towards_Any-Scenario_Person_Re-Identification_CVPR_2026_paper.html">Paper</a>, <a href="https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhao_WHU-MARS_A_Multispectral_CVPR_2026_supplemental.pdf">Supp</a>, <a href="https://www.youtube.com/watch?v=G2e1ZG9KBz0">Video</a>, <a href="https://marswhu.github.io/">MARS Lab</a></p>
 
 ![Poster](res/poster.png)
 
@@ -81,7 +82,8 @@ If you find this project useful, please cite our paper:
   title     = {WHU-MARS: A Multispectral Aerial-Ground Benchmark Towards Any-Scenario Person Re-Identification},
   author    = {Zhao, Yuxuan and Zhou, Zhongao and Yang, Bin and Li, He and Liang, Jian and Chen, Jun and Du, Bo and Ye, Mang},
   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2026}
+  year      = {2026},
+  pages     = {25461-25471},
 }
 ```
 
