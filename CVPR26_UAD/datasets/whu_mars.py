@@ -15,7 +15,7 @@ class WHU_MARS(BaseImageDataset):
 
     Dataset statistics:
     # identities: 1,000/2,337
-    # images: 185,922/434,620
+    # images: 185,742/434,620
     """
     dataset_dir = 'WHU-MARS'
     # dataset_dir = 'WHU-MARS_2337'

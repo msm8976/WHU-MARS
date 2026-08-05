@@ -41,7 +41,7 @@ The WHU-MARS dataset is available for non-commercial academic research only. To 
 | **VI & AG**      | [MP-ReID](https://github.com/MP-ReID/mp-reid)                |        | ✓    |       | 1,930 |     136,156 |      45,270 |      36,300 |           - |      26,046 |           - |      28,543 |
 | **VI & AG**      | [AG-VPReID.VIR](https://github.com/agvpreid25/AG-VPReID.VIR) |        | ✓    |       | 1,104 |     119,958 |      54,546 |           - |       6,735 |      54,784 |           - |       3,893 |
 | **MM**           | [RGBNT201](https://ojs.aaai.org/index.php/AAAI/article/view/16467) | ✓      | ✓    | ✓     |   201 |      14,361 |       4,787 |       4,787 |       4,787 |           - |           - |           - |
-| **AS and Above** | **WHU-MARS**                                                 | ✓      | ✓    | ✓     | 1,000 | **185,922** |      46,212 |      46,212 |  **46,212** |      15,762 |  **15,762** |      15,762 |
+| **AS and Above** | **WHU-MARS**                                                 | ✓      | ✓    | ✓     | 1,000 | **185,742** |      46,152 |      46,152 |  **46,152** |      15,762 |  **15,762** |      15,762 |
 | **AS and Above** | **WHU-MARS-2337**                                            | ✓      | ✓    | ✓     | 2,337 | **434,620** | **119,636** | **117,512** |  **88,847** |      36,256 |  **38,143** |  **34,226** |
 
 ## UAD Framework
@@ -75,7 +75,7 @@ UAD contains two key components:
 
 ## Citation
 
-If you find this project useful, please cite our paper:
+If you find this project useful, please star this repository and cite our paper:
 
 ```bibtex
 @inproceedings{zhao2026whumars,

@@ -96,7 +96,7 @@ _C.INPUT.PADDING = 10
 # -----------------------------------------------------------------------------
 _C.DATASETS = CN()
 # List of the dataset names for training, as present in paths_catalog.py
-_C.DATASETS.NAMES = ('MARS')
+_C.DATASETS.NAMES = ('WHU-MARS')
 # Root directory where datasets should be used (and downloaded if not found)
 _C.DATASETS.ROOT_DIR = ('../data')
 # Ordered modality folder names under each split directory, e.g. train/<modality>/*.jpg
